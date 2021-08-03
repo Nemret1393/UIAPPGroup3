@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ilkSayfa">
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:background="@color/purple_200"
+        android:paddingStart="10dp"
+        android:paddingLeft="20dp"
+        android:paddingTop="10dp"
+        android:paddingEnd="10dp"
+        android:paddingRight="20dp"
+        android:paddingBottom="5dp"
+        android:text="@string/the_church_proper_defined_by_all_the_sources_as_large_was_of_basilica_type_with_the_space_divided_into_three_aisles_by_two_colonnades_this_plan_is_similar_to_that_of_other_churches_of_the_early_type_in_constantinople_like_st_john_of_studios_it_had_a_rectangular_plan_with_sides_of_96_m_and_36_m_justinian_apparently_built_a_dome_on_the_church_since_procopius_in_his_work_de_edificiis_mentions_that_both_colonnades_bent_in_the_middle_of_the_nave_describing_a_semicircle_emperor_justin_ii_added_the_two_side_arms_giving_to_the_plan_the_appearance_of_a_cross_the_reconstruction_of_1070_possibly_respected_this_plan_the_spanish_ambassador_ruy_gonz_les_de_clavijo_who_visited_constantinople_in_1402_writes_that_the_building_was_divided_into_three_aisles_with_the_central_higher_than_the_flanking_ones_the_columns_were_made_of_green_jasper_while_the_capitals_and_the_bases_of_the_columns_were_gilded_and_carved_in_white_marble_the_church_by_that_time_had_no_dome_anymore_but_a_multicoloured_compartmented_ceiling_decorated_with_golden_garlands"
+        android:textColor="@color/white"
+        android:textSize="19sp"
+        android:textStyle="bold"/>
+
+</LinearLayout>

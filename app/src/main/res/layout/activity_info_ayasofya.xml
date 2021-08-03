@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ilkSayfa">
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:background="@color/purple_200"
+        android:paddingStart="10dp"
+        android:paddingLeft="20dp"
+        android:paddingTop="10dp"
+        android:paddingEnd="10dp"
+        android:paddingRight="20dp"
+        android:paddingBottom="5dp"
+        android:text="@string/hagia_sophia_has_a_column_known_as_the_wishing_column_perspiring_column_or_sweating_column_that_is_damp_to_the_touch_it_is_located_on_the_northwest_portion_of_the_church_and_on_it_there_is_a_hole_in_which_people_jam_their_fingers_to_receive_healing_from_their_ailments_it_is_believed_that_it_has_the_blessing_of_st_gregory_who_appeared_near_it_thus_provides_healing_a_finger_that_emerges_wet_from_the_hole_is_believed_to_be_an_indication_of_the_fulfillment_of_one_s_wishes_and_the_provision_of_healing_protective_bronze_plates_put_over_the_hole_was_no_determent_to_pilgrims_who_still_found_a_way_to_access_the_hole_hagia_sophia_s_columns_were_from_the_temple_of_artemis_at_ephesus_which_is_one_of_the_seven_wonders_of_the_ancient_world_large_stones_were_acquired_from_egypt_while_a_black_stone_was_acquired_from_the_bosphorus_additionally_green_marble_and_yellow_stone_were_acquired_from_thesally_and_syria_respectively_all_these_materials_from_around_the_byzantine_empire_and_beyond_made_hagia_sophia_as_magnificent_as_it_is_the_features_of_the_hagia_sophia_as_described_are_splendid_and_a_visit_there_would_help_appreciate_their_individuality_as_well_as_their_coming_together_to_form_the_whole_conversion_of_the_church_to_mosque_then_museum_ensures_that_everything_is_available_for_viewing_it_is_feared_that_an_earthquake_might_bring_hagia_sophia_down_as_it_was_constructed_over_a_fault_line_the_museum_could_also_do_with_some_refurbishment_as_it_has_been_said_that_hagia_sophia_is_in_such_a_state_of_disrepair_it_desperately_needs_work"
+        android:textColor="@color/white"
+        android:textSize="16.5sp"
+        android:textStyle="bold"/>
+
+</LinearLayout>
